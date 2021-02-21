@@ -1,4 +1,4 @@
-# Canvas-boll
+# Canvas-ball
  
 Simple animation with CanvasJS 
 
